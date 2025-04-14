@@ -7,7 +7,6 @@ Welcome to **Savory Bites**, where every meal is a masterpiece crafted with pass
   ## 📸 Preview
 
  ![Savoury Bites (Light)](https://github.com/user-attachments/assets/a6b5a4fe-3ff2-44bf-ab4c-23f31578f1bb)
-
  ![Savory Bites (Dark)](https://github.com/user-attachments/assets/0636a49a-c4cb-480f-bbf3-112014439f4a)
 
 
